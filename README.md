@@ -1,0 +1,70 @@
+<h1 align="center">Sachin Mandavi</h1>
+
+<p align="center">
+  <strong>Full-stack builder focused on automation, cloud-first tools, and product-grade developer experiences.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sachinmandawi?tab=followers">
+    <img src="https://img.shields.io/github/followers/sachinmandawi?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/sachinmandawi?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Projects-Active-111827?style=for-the-badge&logo=github" alt="Public projects" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Automation%20%7C%20Cloud%20%7C%20Apps-2563eb?style=for-the-badge" alt="Focus areas" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+serious+tools+for+real+work;Telegram+and+messaging+automation;Cloud-first+storage+and+utility+apps;Shipping+clean+products%2C+not+just+code" alt="Typing intro" />
+</p>
+
+## About Me
+
+I build practical software with a bias toward shipping. My work usually sits at the intersection of automation, messaging platforms, developer tooling, and cloud-backed products. I like projects that feel useful on day one and still scale into something more ambitious over time.
+
+- Building product-style applications with polished UX and strong persistence.
+- Exploring Telegram, WhatsApp, and utility automation systems.
+- Interested in frontend craftsmanship, release engineering, and app distribution.
+
+## Featured Projects
+
+| Project | What it is |
+| --- | --- |
+| [Telegram Drive](https://github.com/sachinmandawi/Telegram-Drive) | A cross-platform storage app that turns Telegram into a structured drive with browser mode, persistence, and desktop packaging. |
+| [levanter](https://github.com/sachinmandawi/levanter) | A feature-rich WhatsApp bot fork with multi-session support and broad automation workflows. |
+| [Youtube-Downloader-Bot](https://github.com/sachinmandawi/Youtube-Downloader-Bot) | A bot project focused on media utility flows and streamlined download automation. |
+| [FormWebsite](https://github.com/sachinmandawi/FormWebsite) | A web project centered on clean UI delivery and structured user workflows. |
+
+## Tech I Work With
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+  <img src="https://img.shields.io/badge/Tauri-0f172a?style=flat-square&logo=tauri&logoColor=24c8db" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Rust-0f172a?style=flat-square&logo=rust&logoColor=f97316" alt="Rust" />
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=node.js&logoColor=22c55e" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Vite-0f172a?style=flat-square&logo=vite&logoColor=a78bfa" alt="Vite" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0f172a?style=flat-square&logo=githubactions&logoColor=60a5fa" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Automation-0f172a?style=flat-square&logo=github&logoColor=e5e7eb" alt="Automation" />
+</p>
+
+## GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinmandawi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinmandawi&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sachinmandawi&theme=transparent&hide_border=true" alt="GitHub streak" />
+</p>
+
+## What I Care About
+
+- Product quality that feels intentional, not rushed.
+- Features that survive reinstalls, bad sessions, and real user workflows.
+- Repos that look clean, read clearly, and ship with working releases.
+
+## Profile Direction
+
+This profile is being shaped around high-signal builds: cloud tools, automation systems, desktop apps, and utility products with real packaging and deployment behind them.
