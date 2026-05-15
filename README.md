@@ -1,15 +1,15 @@
 <h1 align="center">Sachin Mandavi</h1>
 
 <p align="center">
-  <strong>Full-stack builder shipping automation tools, cloud-first storage apps, and product-grade developer experiences.</strong>
+  <strong>Full-stack builder shipping Telegram-first storage tools and product-grade app experiences.</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/sachinmandawi?tab=followers">
     <img src="https://img.shields.io/github/followers/sachinmandawi?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/sachinmandawi?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Projects-Active-111827?style=for-the-badge&logo=github" alt="Public projects" />
+  <a href="https://github.com/sachinmandawi/Telegram-Drive">
+    <img src="https://img.shields.io/badge/Active%20Build-Telegram%20Drive-111827?style=for-the-badge&logo=github" alt="Active build" />
   </a>
   <a href="https://github.com/sachinmandawi/Telegram-Drive/releases/latest">
     <img src="https://img.shields.io/github/v/release/sachinmandawi/Telegram-Drive?style=for-the-badge&label=Telegram%20Drive" alt="Telegram Drive latest release" />
@@ -23,10 +23,10 @@
 
 ## About Me
 
-I build practical software with a bias toward shipping. My work usually sits at the intersection of automation, messaging platforms, developer tooling, and cloud-backed products. I like projects that feel useful on day one and still scale into something more ambitious over time.
+I build practical software with a bias toward shipping. My current public work is centered on Telegram Drive: a Telegram-backed storage app with web, desktop, and Android releases.
 
 - Building product-style applications with polished UX, persistence, and packaging.
-- Exploring Telegram, WhatsApp, and utility automation workflows.
+- Exploring Telegram storage, utility automation, and release workflows.
 - Interested in frontend craftsmanship, release engineering, and app distribution across web, desktop, and mobile.
 
 ## Currently Shipping
@@ -47,14 +47,11 @@ I build practical software with a bias toward shipping. My work usually sits at 
   </a>
 </p>
 
-## Featured Projects
+## Public Repository
 
 | Project | What it is |
 | --- | --- |
 | [Telegram Drive](https://github.com/sachinmandawi/Telegram-Drive) | A cross-platform storage app that turns Telegram into a structured drive with browser mode, persistence, desktop packaging, and Android builds. |
-| [levanter](https://github.com/sachinmandawi/levanter) | A feature-rich WhatsApp bot fork with multi-session support and broad automation workflows. |
-| [Youtube-Downloader-Bot](https://github.com/sachinmandawi/Youtube-Downloader-Bot) | A bot project focused on media utility flows and streamlined download automation. |
-| [FormWebsite](https://github.com/sachinmandawi/FormWebsite) | A web project centered on clean UI delivery and structured user workflows. |
 
 ## Tech I Work With
 
@@ -88,4 +85,4 @@ I build practical software with a bias toward shipping. My work usually sits at 
 
 ## Profile Direction
 
-This profile is being shaped around high-signal builds: cloud tools, automation systems, desktop apps, and utility products with real packaging and deployment behind them.
+This profile is being shaped around the public projects currently available on this account, with Telegram Drive as the main active build.
