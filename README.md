@@ -1,7 +1,7 @@
 <h1 align="center">Sachin Mandavi</h1>
 
 <p align="center">
-  <strong>Full-stack builder focused on automation, cloud-first tools, and product-grade developer experiences.</strong>
+  <strong>Full-stack builder shipping automation tools, cloud-first storage apps, and product-grade developer experiences.</strong>
 </p>
 
 <p align="center">
@@ -11,26 +11,47 @@
   <a href="https://github.com/sachinmandawi?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Projects-Active-111827?style=for-the-badge&logo=github" alt="Public projects" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Automation%20%7C%20Cloud%20%7C%20Apps-2563eb?style=for-the-badge" alt="Focus areas" />
+  <a href="https://github.com/sachinmandawi/Telegram-Drive/releases/latest">
+    <img src="https://img.shields.io/github/v/release/sachinmandawi/Telegram-Drive?style=for-the-badge&label=Telegram%20Drive" alt="Telegram Drive latest release" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Telegram%20%7C%20Automation%20%7C%20Apps-2563eb?style=for-the-badge" alt="Focus areas" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+serious+tools+for+real+work;Telegram+and+messaging+automation;Cloud-first+storage+and+utility+apps;Shipping+clean+products%2C+not+just+code" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+serious+tools+for+real+work;Telegram-first+storage+and+automation;Cross-platform+apps+with+real+releases;Shipping+clean+products%2C+not+just+code" alt="Typing intro" />
 </p>
 
 ## About Me
 
 I build practical software with a bias toward shipping. My work usually sits at the intersection of automation, messaging platforms, developer tooling, and cloud-backed products. I like projects that feel useful on day one and still scale into something more ambitious over time.
 
-- Building product-style applications with polished UX and strong persistence.
-- Exploring Telegram, WhatsApp, and utility automation systems.
-- Interested in frontend craftsmanship, release engineering, and app distribution.
+- Building product-style applications with polished UX, persistence, and packaging.
+- Exploring Telegram, WhatsApp, and utility automation workflows.
+- Interested in frontend craftsmanship, release engineering, and app distribution across web, desktop, and mobile.
+
+## Currently Shipping
+
+| Product | Latest work |
+| --- | --- |
+| [Telegram Drive](https://github.com/sachinmandawi/Telegram-Drive) | Cross-platform Telegram storage app with web deploy, desktop builds, Android APKs, folder tools, context-menu actions, and mobile download support. |
+
+<p>
+  <a href="https://sachinmandawi.github.io/Telegram-Drive/">
+    <img src="https://img.shields.io/badge/Live%20App-Open-16a34a?style=flat-square&logo=githubpages&logoColor=white" alt="Telegram Drive live app" />
+  </a>
+  <a href="https://github.com/sachinmandawi/Telegram-Drive/releases/latest">
+    <img src="https://img.shields.io/badge/Download-Latest%20Release-0f172a?style=flat-square&logo=github&logoColor=white" alt="Telegram Drive latest release" />
+  </a>
+  <a href="https://github.com/sachinmandawi/Telegram-Drive/actions">
+    <img src="https://img.shields.io/badge/CI-GitHub%20Actions-2563eb?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  </a>
+</p>
 
 ## Featured Projects
 
 | Project | What it is |
 | --- | --- |
-| [Telegram Drive](https://github.com/sachinmandawi/Telegram-Drive) | A cross-platform storage app that turns Telegram into a structured drive with browser mode, persistence, and desktop packaging. |
+| [Telegram Drive](https://github.com/sachinmandawi/Telegram-Drive) | A cross-platform storage app that turns Telegram into a structured drive with browser mode, persistence, desktop packaging, and Android builds. |
 | [levanter](https://github.com/sachinmandawi/levanter) | A feature-rich WhatsApp bot fork with multi-session support and broad automation workflows. |
 | [Youtube-Downloader-Bot](https://github.com/sachinmandawi/Youtube-Downloader-Bot) | A bot project focused on media utility flows and streamlined download automation. |
 | [FormWebsite](https://github.com/sachinmandawi/FormWebsite) | A web project centered on clean UI delivery and structured user workflows. |
