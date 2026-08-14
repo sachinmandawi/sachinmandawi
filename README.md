@@ -70,12 +70,12 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinmandawi&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinmandawi&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sachinmandawi&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sachinmandawi&layout=compact&hide_border=true&theme=tokyonight" height="175" alt="Top Languages" />
 
-  <br>
+  <br><br>
 
-  <img src="https://streak-stats.demolab.com?user=sachinmandawi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sachinmandawi&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
 
 </div>
 
