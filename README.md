@@ -10,14 +10,14 @@
     <a href="https://github.com/sachinmandawi/orbit-hide">
       <img src="https://img.shields.io/badge/Latest%20Release-Orbit%20Hide%20v1.0.0-10b981?style=for-the-badge&logo=windows&logoColor=white" alt="Orbit Hide Release" />
     </a>
-    <a href="https://github.com/sachinmandawi/Telegram-Drive">
-      <img src="https://img.shields.io/badge/Active%20Build-Telegram%20Drive-3b82f6?style=for-the-badge&logo=telegram" alt="Telegram Drive" />
+    <a href="https://github.com/sachinmandawi/panthernote">
+      <img src="https://img.shields.io/badge/Active%20Build-PantherNote-3b82f6?style=for-the-badge&logo=shield" alt="PantherNote" />
     </a>
-    <img src="https://img.shields.io/badge/Focus-Security%20%7C%20Automation%20%7C%20Apps-7c3aed?style=for-the-badge" alt="Focus areas" />
+    <img src="https://img.shields.io/badge/Focus-Security%20%7C%20Privacy%20%7C%20Apps-7c3aed?style=for-the-badge" alt="Focus areas" />
   </p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=800&lines=Building+practical+desktop+security+%26+privacy+tools;Shipping+zero+data-loss+software+with+real+releases;Cross-platform+cloud+storage+and+automation+apps;Crafting+clean+products+with+pixel-perfect+UX" alt="Typing banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=800&lines=Building+practical+desktop+security+%26+privacy+tools;Shipping+zero+data-loss+software+with+real+releases;Client-side+cryptography+and+automation+apps;Crafting+clean+products+with+pixel-perfect+UX" alt="Typing banner" />
   </p>
 
 </div>
@@ -29,11 +29,11 @@
 | Product | Description | Tech Stack | Quick Links |
 | :--- | :--- | :--- | :--- |
 | **🛡️ [Orbit Hide](https://github.com/sachinmandawi/orbit-hide)** | **Stealth Windows File & Folder Vault** — Instant `<50ms` zero data-loss hiding using OS kernel attributes (`+h +s`), Master Key lock, Security Q&A recovery, encrypted GitHub backup, and silent right-click context menu. | `Electron` `Node.js` `PBKDF2` `AES-256` `WinAPI` | [![Release](https://img.shields.io/github/v/release/sachinmandawi/orbit-hide?style=flat-square&color=10b981&label=Download)](https://github.com/sachinmandawi/orbit-hide/releases) [![Repo](https://img.shields.io/badge/Source-GitHub-111827?style=flat-square&logo=github)](https://github.com/sachinmandawi/orbit-hide) |
-| **📁 [Telegram Drive](https://github.com/sachinmandawi/Telegram-Drive)** | **Unlimited Cloud Drive on Telegram** — Cross-platform storage application turning Telegram into an organized drive with desktop packaging, Android APKs, and browser client. | `TypeScript` `React` `Tauri` `Rust` `Vite` | [![App](https://img.shields.io/badge/Live%20Demo-Open-16a34a?style=flat-square&logo=githubpages&logoColor=white)](https://sachinmandawi.github.io/Telegram-Drive/) [![Release](https://img.shields.io/badge/Download-APK%20%2F%20EXE-2563eb?style=flat-square&logo=github)](https://github.com/sachinmandawi/Telegram-Drive/releases) |
 | **🔐 [PantherNote](https://github.com/sachinmandawi/panthernote)** | **Zero-Knowledge Password Manager** — Client-side encrypted credential store keeping passwords, secrets, and private notes 100% private. | `JavaScript` `Web Crypto` `HTML5` `CSS3` | [![Repo](https://img.shields.io/badge/Source-GitHub-111827?style=flat-square&logo=github)](https://github.com/sachinmandawi/panthernote) |
 | **🔒 [Msg Secure](https://github.com/sachinmandawi/msg-secure)** | **End-to-End Cryptographic Vault & Steganography** — Encode and conceal secret messages inside images and encrypted payloads. | `JavaScript` `Cryptography` `Canvas API` | [![Repo](https://img.shields.io/badge/Source-GitHub-111827?style=flat-square&logo=github)](https://github.com/sachinmandawi/msg-secure) |
 | **💰 [Pocket Budget](https://github.com/sachinmandawi/pocket-budget-app)** | **Self-Healing Daily Expense Tracker** — Smart allowance manager with piggy bank vault and private cloud sync. | `JavaScript` `PWA` `LocalStorage` | [![Repo](https://img.shields.io/badge/Source-GitHub-111827?style=flat-square&logo=github)](https://github.com/sachinmandawi/pocket-budget-app) |
 | **📄 [Dark PDF to Notes](https://github.com/sachinmandawi/dark-pdf-to-printable-notes)** | **Smart PDF Contrast Converter** — Converts dark-themed lecture notes to high-contrast printable white pages while preserving colors. | `JavaScript` `PDF.js` `Canvas` | [![Repo](https://img.shields.io/badge/Source-GitHub-111827?style=flat-square&logo=github)](https://github.com/sachinmandawi/dark-pdf-to-printable-notes) |
+| **🎧 [Binaural Beats Studio](https://github.com/sachinmandawi/binaural-beats-studio)** | **Real-Time Web Audio Synthesizer** — Standalone browser-based sound generator for binaural frequencies and focus audio. | `JavaScript` `Web Audio API` `DSP` | [![Repo](https://img.shields.io/badge/Source-GitHub-111827?style=flat-square&logo=github)](https://github.com/sachinmandawi/binaural-beats-studio) |
 
 ---
 
@@ -45,14 +45,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚡ Frameworks & Desktop Packaging
+### ⚡ Desktop & Web Frameworks
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
@@ -85,7 +82,7 @@
 
 - **Zero-Loss Reliability:** Build systems that never corrupt, lose, or leak user data.
 - **Product Polish:** Crisp typography, dark theme craftsmanship, and instant responsive feedback.
-- **Biased Toward Shipping:** Real installable packages (`.exe`, `.apk`, web deploys), clean changelogs, and verified releases.
+- **Biased Toward Shipping:** Real installable packages (`.exe`, web deploys), clean changelogs, and verified releases.
 
 ---
 
