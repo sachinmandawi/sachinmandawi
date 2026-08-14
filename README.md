@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there, I'm Sachin Mandawi 👋</h1>
+  <h1>Hi there, I'm Sachin Mandavi 👋</h1>
   <p><strong>Full-Stack Builder & Desktop Security Tools Engineer</strong></p>
 
   <p>
@@ -90,5 +90,5 @@
 ---
 
 <div align="center">
-  <sub>Designed &amp; Maintained by <a href="https://github.com/sachinmandawi">Sachin Mandawi</a></sub>
+  <sub>Designed &amp; Maintained by <a href="https://github.com/sachinmandawi">Sachin Mandavi</a></sub>
 </div>
