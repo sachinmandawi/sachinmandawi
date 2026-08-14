@@ -1,88 +1,94 @@
-<h1 align="center">Sachin Mandavi</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full-stack builder shipping Telegram-first storage tools and product-grade app experiences.</strong>
-</p>
+  <h1>Hi there, I'm Sachin Mandawi 👋</h1>
+  <p><strong>Full-Stack Builder & Desktop Security Tools Engineer</strong></p>
 
-<p align="center">
-  <a href="https://github.com/sachinmandawi?tab=followers">
-    <img src="https://img.shields.io/github/followers/sachinmandawi?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/sachinmandawi/Telegram-Drive">
-    <img src="https://img.shields.io/badge/Active%20Build-Telegram%20Drive-111827?style=for-the-badge&logo=github" alt="Active build" />
-  </a>
-  <a href="https://github.com/sachinmandawi/Telegram-Drive/releases/latest">
-    <img src="https://img.shields.io/github/v/release/sachinmandawi/Telegram-Drive?style=for-the-badge&label=Telegram%20Drive" alt="Telegram Drive latest release" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Telegram%20%7C%20Automation%20%7C%20Apps-2563eb?style=for-the-badge" alt="Focus areas" />
-</p>
+  <p>
+    <a href="https://github.com/sachinmandawi?tab=followers">
+      <img src="https://img.shields.io/github/followers/sachinmandawi?style=for-the-badge&logo=github&label=Followers&color=2563eb" alt="GitHub followers" />
+    </a>
+    <a href="https://github.com/sachinmandawi/orbit-hide">
+      <img src="https://img.shields.io/badge/Latest%20Release-Orbit%20Hide%20v1.0.0-10b981?style=for-the-badge&logo=windows&logoColor=white" alt="Orbit Hide Release" />
+    </a>
+    <a href="https://github.com/sachinmandawi/Telegram-Drive">
+      <img src="https://img.shields.io/badge/Active%20Build-Telegram%20Drive-3b82f6?style=for-the-badge&logo=telegram" alt="Telegram Drive" />
+    </a>
+    <img src="https://img.shields.io/badge/Focus-Security%20%7C%20Automation%20%7C%20Apps-7c3aed?style=for-the-badge" alt="Focus areas" />
+  </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+serious+tools+for+real+work;Telegram-first+storage+and+automation;Cross-platform+apps+with+real+releases;Shipping+clean+products%2C+not+just+code" alt="Typing intro" />
-</p>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=800&lines=Building+practical+desktop+security+%26+privacy+tools;Shipping+zero+data-loss+software+with+real+releases;Cross-platform+cloud+storage+and+automation+apps;Crafting+clean+products+with+pixel-perfect+UX" alt="Typing banner" />
+  </p>
 
-## About Me
+</div>
 
-I build practical software with a bias toward shipping. My current public work is centered on Telegram Drive: a Telegram-backed storage app with web, desktop, and Android releases.
+---
 
-- Building product-style applications with polished UX, persistence, and packaging.
-- Exploring Telegram storage, utility automation, and release workflows.
-- Interested in frontend craftsmanship, release engineering, and app distribution across web, desktop, and mobile.
+## 🚀 Featured Flagship Projects
 
-## Currently Shipping
+| Product | Description | Tech Stack | Quick Links |
+| :--- | :--- | :--- | :--- |
+| **🛡️ [Orbit Hide](https://github.com/sachinmandawi/orbit-hide)** | **Stealth Windows File & Folder Vault** — Instant `<50ms` zero data-loss hiding using OS kernel attributes (`+h +s`), Master Key lock, Security Q&A recovery, encrypted GitHub backup, and silent right-click context menu. | `Electron` `Node.js` `PBKDF2` `AES-256` `WinAPI` | [![Release](https://img.shields.io/github/v/release/sachinmandawi/orbit-hide?style=flat-square&color=10b981&label=Download)](https://github.com/sachinmandawi/orbit-hide/releases) [![Repo](https://img.shields.io/badge/Source-GitHub-111827?style=flat-square&logo=github)](https://github.com/sachinmandawi/orbit-hide) |
+| **📁 [Telegram Drive](https://github.com/sachinmandawi/Telegram-Drive)** | **Unlimited Cloud Drive on Telegram** — Cross-platform storage application turning Telegram into an organized drive with desktop packaging, Android APKs, and browser client. | `TypeScript` `React` `Tauri` `Rust` `Vite` | [![App](https://img.shields.io/badge/Live%20Demo-Open-16a34a?style=flat-square&logo=githubpages&logoColor=white)](https://sachinmandawi.github.io/Telegram-Drive/) [![Release](https://img.shields.io/badge/Download-APK%20%2F%20EXE-2563eb?style=flat-square&logo=github)](https://github.com/sachinmandawi/Telegram-Drive/releases) |
+| **🔐 [PantherNote](https://github.com/sachinmandawi/panthernote)** | **Zero-Knowledge Password Manager** — Client-side encrypted credential store keeping passwords, secrets, and private notes 100% private. | `JavaScript` `Web Crypto` `HTML5` `CSS3` | [![Repo](https://img.shields.io/badge/Source-GitHub-111827?style=flat-square&logo=github)](https://github.com/sachinmandawi/panthernote) |
+| **🔒 [Msg Secure](https://github.com/sachinmandawi/msg-secure)** | **End-to-End Cryptographic Vault & Steganography** — Encode and conceal secret messages inside images and encrypted payloads. | `JavaScript` `Cryptography` `Canvas API` | [![Repo](https://img.shields.io/badge/Source-GitHub-111827?style=flat-square&logo=github)](https://github.com/sachinmandawi/msg-secure) |
+| **💰 [Pocket Budget](https://github.com/sachinmandawi/pocket-budget-app)** | **Self-Healing Daily Expense Tracker** — Smart allowance manager with piggy bank vault and private cloud sync. | `JavaScript` `PWA` `LocalStorage` | [![Repo](https://img.shields.io/badge/Source-GitHub-111827?style=flat-square&logo=github)](https://github.com/sachinmandawi/pocket-budget-app) |
+| **📄 [Dark PDF to Notes](https://github.com/sachinmandawi/dark-pdf-to-printable-notes)** | **Smart PDF Contrast Converter** — Converts dark-themed lecture notes to high-contrast printable white pages while preserving colors. | `JavaScript` `PDF.js` `Canvas` | [![Repo](https://img.shields.io/badge/Source-GitHub-111827?style=flat-square&logo=github)](https://github.com/sachinmandawi/dark-pdf-to-printable-notes) |
 
-| Product | Latest work |
-| --- | --- |
-| [Telegram Drive](https://github.com/sachinmandawi/Telegram-Drive) | Cross-platform Telegram storage app with web deploy, desktop builds, Android APKs, folder tools, context-menu actions, and mobile download support. |
+---
 
-<p>
-  <a href="https://sachinmandawi.github.io/Telegram-Drive/">
-    <img src="https://img.shields.io/badge/Live%20App-Open-16a34a?style=flat-square&logo=githubpages&logoColor=white" alt="Telegram Drive live app" />
-  </a>
-  <a href="https://github.com/sachinmandawi/Telegram-Drive/releases/latest">
-    <img src="https://img.shields.io/badge/Download-Latest%20Release-0f172a?style=flat-square&logo=github&logoColor=white" alt="Telegram Drive latest release" />
-  </a>
-  <a href="https://github.com/sachinmandawi/Telegram-Drive/actions">
-    <img src="https://img.shields.io/badge/CI-GitHub%20Actions-2563eb?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  </a>
-</p>
+## 🛠️ Tech Stack & Tooling
 
-## Public Repository
+<div align="left">
 
-| Project | What it is |
-| --- | --- |
-| [Telegram Drive](https://github.com/sachinmandawi/Telegram-Drive) | A cross-platform storage app that turns Telegram into a structured drive with browser mode, persistence, desktop packaging, and Android builds. |
+### 💻 Languages & Core
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Tech I Work With
+### ⚡ Frameworks & Desktop Packaging
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
-  <img src="https://img.shields.io/badge/Tauri-0f172a?style=flat-square&logo=tauri&logoColor=24c8db" alt="Tauri" />
-  <img src="https://img.shields.io/badge/Rust-0f172a?style=flat-square&logo=rust&logoColor=f97316" alt="Rust" />
-  <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=node.js&logoColor=22c55e" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Vite-0f172a?style=flat-square&logo=vite&logoColor=a78bfa" alt="Vite" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0f172a?style=flat-square&logo=githubactions&logoColor=60a5fa" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Automation-0f172a?style=flat-square&logo=github&logoColor=e5e7eb" alt="Automation" />
-</p>
+### 🔐 Security & OS Integration
+![PBKDF2](https://img.shields.io/badge/Security-PBKDF2%20%7C%20SHA--512-10b981?style=for-the-badge&logo=securityScorecard&logoColor=white)
+![AES-256](https://img.shields.io/badge/Encryption-AES--256--CBC-blue?style=for-the-badge&logo=lock&logoColor=white)
+![Windows API](https://img.shields.io/badge/Windows-Kernel%20Attributes%20%26%20Registry-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## GitHub Snapshot
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinmandawi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinmandawi&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top languages" />
-</p>
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sachinmandawi&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
+## 📊 GitHub Analytics
 
-## What I Care About
+<div align="center">
 
-- Product quality that feels intentional, not rushed.
-- Features that survive reinstalls, bad sessions, and real user workflows.
-- Repos that look clean, read clearly, and ship with working releases.
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinmandawi&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinmandawi&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top Languages" />
 
-## Profile Direction
+  <br>
 
-This profile is being shaped around the public projects currently available on this account, with Telegram Drive as the main active build.
+  <img src="https://streak-stats.demolab.com?user=sachinmandawi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 💡 Philosophy & Engineering Values
+
+- **Zero-Loss Reliability:** Build systems that never corrupt, lose, or leak user data.
+- **Product Polish:** Crisp typography, dark theme craftsmanship, and instant responsive feedback.
+- **Biased Toward Shipping:** Real installable packages (`.exe`, `.apk`, web deploys), clean changelogs, and verified releases.
+
+---
+
+<div align="center">
+  <sub>Designed &amp; Maintained by <a href="https://github.com/sachinmandawi">Sachin Mandawi</a></sub>
+</div>
