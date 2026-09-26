@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there, I'm Sachin Mandavi 👋</h1>
+  <h1>Hi there, I'm Sachin Mandawi 👋</h1>
   <p><strong>Full-Stack Builder & Desktop Security Tools Engineer</strong></p>
 
   <p>
