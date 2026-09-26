@@ -87,5 +87,5 @@
 ---
 
 <div align="center">
-  <sub>Designed &amp; Maintained by <a href="https://github.com/sachinmandawi">Sachin Mandavi</a></sub>
+  <sub>Designed &amp; Maintained by <a href="https://github.com/sachinmandawi">Sachin Mandawi</a></sub>
 </div>
