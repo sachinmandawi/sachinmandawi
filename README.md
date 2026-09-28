@@ -12,6 +12,8 @@
     <a href="https://in.pinterest.com/sachinmandawi/"><img src="https://img.shields.io/badge/Pinterest-@sachinmandawi-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
     <a href="https://dev.to/sachinmandawi"><img src="https://img.shields.io/badge/DEV.to-sachinmandawi-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" /></a>
     <a href="https://hashnode.com/@sachinmandawi"><img src="https://img.shields.io/badge/Hashnode-@sachinmandawi-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+    <a href="https://medium.com/@sachinmandawi"><img src="https://img.shields.io/badge/Medium-@sachinmandawi-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+    <a href="https://gravatar.com/sachinmandawi"><img src="https://img.shields.io/badge/Gravatar-sachinmandawi-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white" alt="Gravatar" /></a>
     <a href="https://sachinmandawi.github.io"><img src="https://img.shields.io/badge/Developer_Hub-sachinmandawi.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Developer Hub" /></a>
   </p>
 </div>
