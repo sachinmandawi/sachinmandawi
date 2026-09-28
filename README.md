@@ -1,27 +1,32 @@
-# Hi there, I'm Sachin Mandawi 👋
-
-<p align="center">
+<div align="center">
   <a href="https://sachinmandawi.me">
-    <img src="https://sachinmandawi.me/images/sachin-mandawi.jpg" alt="Sachin Mandawi - Software & Android Developer" width="220" style="border-radius: 16px;" />
+    <img src="https://sachinmandawi.me/images/sachin-mandawi.jpg" alt="Sachin Mandawi - Software & Android Developer" width="180" style="border-radius: 50%;" />
   </a>
-</p>
+  <h1>Hi there, I'm Sachin Mandawi 👋</h1>
+  <h3>Software & Android Developer 💻📱</h3>
+  <p>Building Android apps, privacy tools, system utilities, and modern web applications.</p>
 
-### 💻📱 Software & Android Developer
-Building rootless Android system utilities (**Kotlin / Jetpack Compose / Shizuku**), local-first privacy & security tools, and modern full-stack web applications.
+  <p>
+    <a href="https://sachinmandawi.me"><img src="https://img.shields.io/badge/Website-sachinmandawi.me-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://www.instagram.com/sachinmandawi"><img src="https://img.shields.io/badge/Instagram-@sachinmandawi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://in.pinterest.com/sachinmandawi/"><img src="https://img.shields.io/badge/Pinterest-@sachinmandawi-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
+    <a href="https://dev.to/sachinmandawi"><img src="https://img.shields.io/badge/DEV.to-sachinmandawi-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" /></a>
+    <a href="https://sachinmandawi.github.io"><img src="https://img.shields.io/badge/Developer_Hub-sachinmandawi.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Developer Hub" /></a>
+  </p>
+</div>
 
 ---
 
 ### 🚀 Featured Open-Source Projects
-- 🛡️ **[NetCordon](https://github.com/sachinmandawi/NetCordon)** — Rootless Android firewall powered by Shizuku. Auto-cuts background traffic on app close, restores on open (Zero root, zero VPN).
-- 📱 **[CleanBar](https://github.com/sachinmandawi/CleanBar)** — 1-Tap Status Bar & System Icon Hider for Android powered by Shizuku.
-- 🗄️ **[PantherNote](https://github.com/sachinmandawi/panthernote)** — Unified local-first encrypted vault for Logins, Cards, Notes & 2FA Authenticator codes with private GitHub sync.
-- 🔒 **[Orbit Hide](https://github.com/sachinmandawi/orbit-hide)** — Windows file & folder protection software with Master Key lock and encrypted cloud backup.
-- 💰 **[Pocket Budget](https://github.com/sachinmandawi/pocket-budget-app)** — Smart Daily Expense Tracker & Allowance Manager with Piggy Bank Vault.
+
+- ✨ **[CleanBar](https://github.com/sachinmandawi/CleanBar)** — Minimalist Android status bar manager built with Kotlin & Shizuku to declutter system icons cleanly.
+- 📝 **[PantherNote](https://github.com/sachinmandawi/panthernote)** — Rich notebook and productivity web app with voice typing, tables, mathematical formulas, and PDF export.
+- 🔒 **[Orbit Hide](https://github.com/sachinmandawi/orbit-hide)** — System-level Android app hider and privacy utility powered by Shizuku.
+- 💰 **[Pocket Budget](https://github.com/sachinmandawi/pocket-budget-app)** — Lightweight personal expense tracker and daily budget manager.
 
 ---
 
-### 🔗 Connect With Me
-- 🌐 **Official Website & Portfolio:** [https://sachinmandawi.me](https://sachinmandawi.me)
-- 📷 **Instagram:** [@sachinmandawi](https://www.instagram.com/sachinmandawi)
-- 📌 **Pinterest:** [in.pinterest.com/sachinmandawi](https://in.pinterest.com/sachinmandawi/)
-- 💻 **GitHub:** [github.com/sachinmandawi](https://github.com/sachinmandawi)
+### 🛠️ Tech Stack & Focus
+- **Android & Mobile:** Kotlin, Jetpack Compose, Android SDK, Shizuku API
+- **Web & Scripting:** TypeScript, JavaScript, HTML5, CSS3, Python
+- **Portfolio & Photography:** [https://sachinmandawi.me](https://sachinmandawi.me)
