@@ -10,7 +10,6 @@
     <a href="https://sachinmandawi.com"><img src="https://img.shields.io/badge/Website-sachinmandawi.com-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
     <a href="https://www.instagram.com/sachinmandawi"><img src="https://img.shields.io/badge/Instagram-@sachinmandawi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="https://in.pinterest.com/sachinmandawi/"><img src="https://img.shields.io/badge/Pinterest-@sachinmandawi-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
-    <a href="https://dev.to/sachinmandawi"><img src="https://img.shields.io/badge/DEV.to-sachinmandawi-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" /></a>
     <a href="https://hashnode.com/@sachinmandawi"><img src="https://img.shields.io/badge/Hashnode-@sachinmandawi-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
     <a href="https://medium.com/@sachinmandawi"><img src="https://img.shields.io/badge/Medium-@sachinmandawi-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
     <a href="https://gravatar.com/sachinmandawi"><img src="https://img.shields.io/badge/Gravatar-sachinmandawi-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white" alt="Gravatar" /></a>
