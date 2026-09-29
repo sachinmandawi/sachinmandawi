@@ -1,13 +1,13 @@
 <div align="center">
-  <a href="https://sachinmandawi.me">
-    <img src="https://sachinmandawi.me/images/sachin-mandawi.jpg" alt="Sachin Mandawi - Software & Android Developer" width="180" style="border-radius: 50%;" />
+  <a href="https://sachinmandawi.com">
+    <img src="https://sachinmandawi.com/images/sachin-mandawi.jpg" alt="Sachin Mandawi - Software & Android Developer" width="180" style="border-radius: 50%;" />
   </a>
   <h1>Hi there, I'm Sachin Mandawi 👋</h1>
   <h3>Software & Android Developer 💻📱</h3>
   <p>Building Android apps, privacy tools, system utilities, and modern web applications.</p>
 
   <p>
-    <a href="https://sachinmandawi.me"><img src="https://img.shields.io/badge/Website-sachinmandawi.me-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://sachinmandawi.com"><img src="https://img.shields.io/badge/Website-sachinmandawi.com-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
     <a href="https://www.instagram.com/sachinmandawi"><img src="https://img.shields.io/badge/Instagram-@sachinmandawi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="https://in.pinterest.com/sachinmandawi/"><img src="https://img.shields.io/badge/Pinterest-@sachinmandawi-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
     <a href="https://dev.to/sachinmandawi"><img src="https://img.shields.io/badge/DEV.to-sachinmandawi-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" /></a>
@@ -32,4 +32,4 @@
 ### 🛠️ Tech Stack & Focus
 - **Android & Mobile:** Kotlin, Jetpack Compose, Android SDK, Shizuku API
 - **Web & Scripting:** TypeScript, JavaScript, HTML5, CSS3, Python
-- **Portfolio & Photography:** [https://sachinmandawi.me](https://sachinmandawi.me)
+- **Portfolio & Photography:** [https://sachinmandawi.com](https://sachinmandawi.com)
